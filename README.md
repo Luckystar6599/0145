@@ -386,6 +386,7 @@ Z频道,http://192.168.0.145:8080/ublive.php?id=1130
 博斯无限2,http://192.168.0.145:8080/ublive.php?id=426
 大爱一台,http://192.168.0.145:8080/ublive.php?id=11
 海豚综合,http://192.168.0.145:8080/ublive.php?id=1505
+
 港澳频道,#genre#
 TVB翡翠,http://192.168.0.145:8080/ublive.php?id=30
 TVB翡翠,http://192.168.0.145:8080/ublive.php?id=390
@@ -436,7 +437,8 @@ TVB星河,http://192.168.0.145:8080/ublive.php?id=1079
 TVB经典,http://192.168.0.145:8080/ublive.php?id=1083
 TVB Jade,http://192.168.0.145:8080/ublive.php?id=1084
 卫视卡式台,http://192.168.0.145:8080/ublive.php?id=1085
-新闻频道
+
+新闻频道,#genre#
 三立LIVE新闻,http://192.168.0.145:8080/ublive.php?id=4
 三立LIVE新闻,http://192.168.0.145:8080/ublive.php?id=1008
 东森新闻,http://192.168.0.145:8080/ublive.php?id=9
@@ -481,12 +483,13 @@ BBC World News,http://192.168.0.145:8080/ublive.php?id=421
 欧洲新闻,http://192.168.0.145:8080/ublive.php?id=1343
 SBN全球财经,http://192.168.0.145:8080/ublive.php?id=1497
 半岛国际新闻,http://192.168.0.145:8080/ublive.php?id=1498
-影视频道
+
+
+影视频道,#genre#
 MOMO追剧,http://192.168.0.145:8080/ublive.php?id=494
 爱尔达影剧,http://192.168.0.145:8080/ublive.php?id=500
 东森戏剧,http://192.168.0.145:8080/ublive.php?id=321
 八大戏剧,http://192.168.0.145:8080/ublive.php?id=81
-
 纬来戏剧,http://192.168.0.145:8080/ublive.php?id=339
 卫视电影,http://192.168.0.145:8080/ublive.php?id=93
 东森电影,http://192.168.0.145:8080/ublive.php?id=350
@@ -538,7 +541,9 @@ GEM,http://192.168.0.145:8080/ublive.php?id=1350
 HITS,http://192.168.0.145:8080/ublive.php?id=2227
 广东影视,http://192.168.0.145:8080/ublive.php?id=1499
 岭南戏曲,http://192.168.0.145:8080/ublive.php?id=1502
-体育频道
+
+
+体育频道,#genre#
 纬来体育,http://192.168.0.145:8080/ublive.php?id=52
 纬来体育,http://192.168.0.145:8080/ublive.php?id=118
 FOX Sport 1,http://192.168.0.145:8080/ublive.php?id=1131
@@ -586,7 +591,9 @@ Astro Sp2,http://192.168.0.145:8080/ublive.php?id=445
 Astro Sp3,http://192.168.0.145:8080/ublive.php?id=446
 Astro Sp4,http://192.168.0.145:8080/ublive.php?id=447
 WWE,http://192.168.0.145:8080/ublive.php?id=1081
-纪实频道
+
+
+纪实频道,#genre#
 TVN,http://192.168.0.145:8080/ublive.php?id=1583
 EYE旅游,http://192.168.0.145:8080/ublive.php?id=1494
 国家地理,http://192.168.0.145:8080/ublive.php?id=302
@@ -616,7 +623,9 @@ Earth Views,http://192.168.0.145:8080/ublive.php?id=1017
 NASA Live,http://192.168.0.145:8080/ublive.php?id=196
 Astronaut Spacewalk Earth,http://192.168.0.145:8080/ublive.php?id=1026
 TLC,http://192.168.0.145:8080/ublive.php?id=1206
-少儿频道
+
+
+少儿频道,#genre#
 BabyBus,http://192.168.0.145:8080/ublive.php?id=2150
 Talking Tom,http://192.168.0.145:8080/ublive.php?id=20
 Peppa Pig,http://192.168.0.145:8080/ublive.php?id=1344
@@ -650,7 +659,9 @@ MY KIDS,http://192.168.0.145:8080/ublive.php?id=1495
 广东少儿,http://192.168.0.145:8080/ublive.php?id=1500
 嘉佳卡通,http://192.168.0.145:8080/ublive.php?id=1501
 BabyTV,http://192.168.0.145:8080/ublive.php?id=1241
-音乐宗教
+
+
+音乐宗教,#genre#
 好消息,http://192.168.0.145:8080/ublive.php?id=104
 好消息2,http://192.168.0.145:8080/ublive.php?id=363
 lofi hip hop,http://192.168.0.145:8080/ublive.php?id=1594
@@ -682,7 +693,9 @@ Trace Urban,http://192.168.0.145:8080/ublive.php?id=1003
 生命电视,http://192.168.0.145:8080/ublive.php?id=1124
 华藏电视,http://192.168.0.145:8080/ublive.php?id=1053
 海豚综合,http://192.168.0.145:8080/ublive.php?id=1505
-大陆频道
+
+
+大陆频道,#genre#
 CCTV1,http://192.168.0.145:8080/ublive.php?id=200
 CCTV2,http://192.168.0.145:8080/ublive.php?id=201
 CCTV3,http://192.168.0.145:8080/ublive.php?id=202
@@ -722,7 +735,9 @@ CCTV娱乐,http://192.168.0.145:8080/ublive.php?id=222
 嘉佳卡通,http://192.168.0.145:8080/ublive.php?id=1501
 岭南戏曲,http://192.168.0.145:8080/ublive.php?id=1502
 高尔夫,http://192.168.0.145:8080/ublive.php?id=1503
-日本频道
+
+
+日本频道,#genre#
 NHK総合,http://192.168.0.145:8080/ublive.php?id=2153
 NHK教育,http://192.168.0.145:8080/ublive.php?id=2198
 日本テレビ,http://192.168.0.145:8080/ublive.php?id=2199
@@ -798,7 +813,9 @@ KBC NEWS24,http://192.168.0.145:8080/ublive.php?id=297
 CN,http://192.168.0.145:8080/ublive.php?id=1296
 Discovery,http://192.168.0.145:8080/ublive.php?id=290
 MUSIC JAPAN,http://192.168.0.145:8080/ublive.php?id=288
-韩国频道
+
+
+韩国频道,#genre#
 TVN,http://192.168.0.145:8080/ublive.php?id=295
 연합뉴스TV,http://192.168.0.145:8080/ublive.php?id=1039
 KBS WORLD 24,http://192.168.0.145:8080/ublive.php?id=1040
@@ -850,7 +867,9 @@ EBS1,http://192.168.0.145:8080/ublive.php?id=1098
 SBS Star,http://192.168.0.145:8080/ublive.php?id=1101
 KBC,http://192.168.0.145:8080/ublive.php?id=1307
 MTN,http://192.168.0.145:8080/ublive.php?id=1504
-美国频道
+
+
+美国频道,#genre#
 CNN头条新闻,http://192.168.0.145:8080/ublive.php?id=43
 CNN国际新闻,http://192.168.0.145:8080/ublive.php?id=420
 FOXHD,http://192.168.0.145:8080/ublive.php?id=1506
@@ -931,7 +950,9 @@ BT Sport ESPN,http://192.168.0.145:8080/ublive.php?id=168
 BT Sport 2,http://192.168.0.145:8080/ublive.php?id=166
 BT Sport 3,http://192.168.0.145:8080/ublive.php?id=167
 BT Sport 1,http://192.168.0.145:8080/ublive.php?id=165
-美国测试
+
+
+美国测试,#genre#
 IFC,http://192.168.0.145:8080/ublive.php?id=1362
 ESPN NEWS,http://192.168.0.145:8080/ublive.php?id=1363
 CBS Sport,http://192.168.0.145:8080/ublive.php?id=1364
@@ -1046,7 +1067,9 @@ Starz Kids Family,http://192.168.0.145:8080/ublive.php?id=1120
 Starz Encore,http://192.168.0.145:8080/ublive.php?id=1121
 Starz Encore Westerns,http://192.168.0.145:8080/ublive.php?id=1122
 Cinemax,http://192.168.0.145:8080/ublive.php?id=1123
-加拿大
+
+
+加拿大,#genre#
 CP 24 Canada,http://192.168.0.145:8080/ublive.php?id=1247
 The Weather Network,http://192.168.0.145:8080/ublive.php?id=1251
 CBC,http://192.168.0.145:8080/ublive.php?id=1252
@@ -1090,7 +1113,9 @@ Business Network News,http://192.168.0.145:8080/ublive.php?id=1250
 CTV News,http://192.168.0.145:8080/ublive.php?id=1249
 CBC News,http://192.168.0.145:8080/ublive.php?id=1248
 Crave 4,http://192.168.0.145:8080/ublive.php?id=1272
-英国频道
+
+
+英国频道,#genre#
 BBC World News,http://192.168.0.145:8080/ublive.php?id=421
 BBC one,http://192.168.0.145:8080/ublive.php?id=1382
 BBC four cbeebies,http://192.168.0.145:8080/ublive.php?id=1383
@@ -1157,7 +1182,9 @@ Sky Sport 3,http://192.168.0.145:8080/ublive.php?id=183
 Sky Sport 4,http://192.168.0.145:8080/ublive.php?id=417
 Sky Sport 5,http://192.168.0.145:8080/ublive.php?id=418
 Nickelodeon UK,http://192.168.0.145:8080/ublive.php?id=1305
-意大利
+
+
+意大利,#genre#
 Rai 2,http://192.168.0.145:8080/ublive.php?id=2157
 Rai 3,http://192.168.0.145:8080/ublive.php?id=2158
 Rete 4,http://192.168.0.145:8080/ublive.php?id=2161
@@ -1193,7 +1220,7 @@ HGTV,http://192.168.0.145:8080/ublive.php?id=1618
 Sky Atlantic,http://192.168.0.145:8080/ublive.php?id=1619
 
 
-菲律宾,
+菲律宾,#genre#
 LIGA,http://192.168.0.145:8080/ublive.php?id=1332
 CinemaOne,http://192.168.0.145:8080/ublive.php?id=1333
 SportsAction,http://192.168.0.145:8080/ublive.php?id=1334
@@ -1201,7 +1228,9 @@ Jeepney,http://192.168.0.145:8080/ublive.php?id=1335
 MYX,http://192.168.0.145:8080/ublive.php?id=1336
 GMA,http://192.168.0.145:8080/ublive.php?id=1337
 TV5,http://192.168.0.145:8080/ublive.php?id=1338
-泰国频道
+
+
+泰国频道,#genre#
 7HD,http://192.168.0.145:8080/ublive.php?id=2228
 One HD,http://192.168.0.145:8080/ublive.php?id=2229
 3 HD,http://192.168.0.145:8080/ublive.php?id=2230
@@ -1222,7 +1251,9 @@ NBT Central,http://192.168.0.145:8080/ublive.php?id=1609
 Thairath TV,http://192.168.0.145:8080/ublive.php?id=1139
 Channel 8,http://192.168.0.145:8080/ublive.php?id=1140
 Thai PBS,http://192.168.0.145:8080/ublive.php?id=1047
-印尼频道
+
+
+印尼频道,#genre#
 TVRI,http://192.168.0.145:8080/ublive.php?id=1473
 Rcti,http://192.168.0.145:8080/ublive.php?id=1474
 Kompass,http://192.168.0.145:8080/ublive.php?id=1475
