@@ -1,4 +1,14 @@
 新马频道,#genre#
+AOD,http://192.168.0.145:8080/ublive.php?id=428
+欢喜,http://192.168.0.145:8080/ublive.php?id=432
+双星,http://192.168.0.145:8080/ublive.php?id=431
+全佳,http://192.168.0.145:8080/ublive.php?id=427
+AEC,http://192.168.0.145:8080/ublive.php?id=433
+华丽,http://192.168.0.145:8080/ublive.php?id=429
+Astro Sp1,http://192.168.0.145:8080/ublive.php?id=444
+Astro Sp2,http://192.168.0.145:8080/ublive.php?id=445
+Astro Sp3,http://192.168.0.145:8080/ublive.php?id=446
+Astro Sp4,http://192.168.0.145:8080/ublive.php?id=447
 CNA 24,http://192.168.0.145:8080/ublive.php?id=15
 CERIA,http://192.168.0.145:8080/ublive.php?id=1161
 TVN,http://192.168.0.145:8080/ublive.php?id=1170
@@ -6,28 +16,19 @@ Arena,http://192.168.0.145:8080/ublive.php?id=1172
 CRICKET,http://192.168.0.145:8080/ublive.php?id=1173
 Astro Awani,http://192.168.0.145:8080/ublive.php?id=440
 天映频道,http://192.168.0.145:8080/ublive.php?id=441
-全佳,http://192.168.0.145:8080/ublive.php?id=427
 KIX,http://192.168.0.145:8080/ublive.php?id=430
-欢喜,http://192.168.0.145:8080/ublive.php?id=432
 Suria,http://192.168.0.145:8080/ublive.php?id=434
-双星,http://192.168.0.145:8080/ublive.php?id=431
-AEC,http://192.168.0.145:8080/ublive.php?id=433
-华丽,http://192.168.0.145:8080/ublive.php?id=429
+TV1,http://192.168.0.145:8080/ublive.php?id=435
 TV2,http://192.168.0.145:8080/ublive.php?id=436
 TV3,http://192.168.0.145:8080/ublive.php?id=437
 TV9,http://192.168.0.145:8080/ublive.php?id=438
 NTV7,http://192.168.0.145:8080/ublive.php?id=439
 TV8,http://192.168.0.145:8080/ublive.php?id=442
 小太阳,http://192.168.0.145:8080/ublive.php?id=443
-AOD,http://192.168.0.145:8080/ublive.php?id=428
 Channel 5,http://192.168.0.145:8080/ublive.php?id=449
-TV1,http://192.168.0.145:8080/ublive.php?id=435
 Channel U,http://192.168.0.145:8080/ublive.php?id=448
-Astro Sp1,http://192.168.0.145:8080/ublive.php?id=444
-Astro Sp2,http://192.168.0.145:8080/ublive.php?id=445
-Astro Sp3,http://192.168.0.145:8080/ublive.php?id=446
-Astro Sp4,http://192.168.0.145:8080/ublive.php?id=447
 Channel 8,http://192.168.0.145:8080/ublive.php?id=1160
+
 马来新频,#genre#
 FRANCE24 HD,http://192.168.0.145:8080/ublive.php?id=1950
 TV1,http://192.168.0.145:8080/ublive.php?id=1954
@@ -198,6 +199,7 @@ Golf Channel FHD,http://192.168.0.145:8080/ublive.php?id=2146
 Fight Sports,http://192.168.0.145:8080/ublive.php?id=2147
 UFC FHD,http://192.168.0.145:8080/ublive.php?id=2148
 NBA TV HD,http://192.168.0.145:8080/ublive.php?id=2149
+
 新马测试,#genre#
 BOO,http://192.168.0.145:8080/ublive.php?id=1437
 CCM,http://192.168.0.145:8080/ublive.php?id=1438
