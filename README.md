@@ -1,6 +1,6 @@
 新马频道,#genre#
-AOD,http://192.168.0.145:8080/ublive.php?id=428
 欢喜,http://192.168.0.145:8080/ublive.php?id=432
+AOD,http://192.168.0.145:8080/ublive.php?id=428
 双星,http://192.168.0.145:8080/ublive.php?id=431
 全佳,http://192.168.0.145:8080/ublive.php?id=427
 AEC,http://192.168.0.145:8080/ublive.php?id=433
